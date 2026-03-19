@@ -2,17 +2,16 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. 
-    
+    p.mb-5 En este componente se realiza un recorrido por los protocolos necesarios para realizar el manejo de la caja registradora de un establecimiento comercial, además de mencionar detalladamente las formas de pago y sus respectivas características y particularidades en términos de seguridad. Con esta información, un operador comercial debe adquirir la capacidad de realizar un buen cierre de operación, arqueos de caja y entrega de puesto de trabajo. En el siguiente cuadro se mencionan los temas trabajados:
 
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-12.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Descripción imagen")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Diagrama de protocolos de cierre de caja: cierre de operación y arqueo con entrega del puesto de trabajo.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/bullets/icono-pdf.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p Anexo. Síntesis
 
