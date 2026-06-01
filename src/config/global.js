@@ -81,7 +81,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF8_621209_DU.pdf',
+        download: 'downloads/CF10_621209_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -176,8 +176,7 @@ export default {
     {
       referencia:
         'Arenal, C. (2019). UF0035: Operaciones de caja en la venta. Editorial Tutor Formación.',
-      link:
-        'https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1525950786_UF0035_demo.pdf',
+      link: 'https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1525950786_UF0035_demo.pdf',
     },
     {
       referencia: 'Negrete, P. (s.f.) Manual procedimiento de pagos. Scribd.',
