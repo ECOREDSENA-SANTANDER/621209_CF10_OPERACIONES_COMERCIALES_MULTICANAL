@@ -176,7 +176,8 @@ export default {
     {
       referencia:
         'Arenal, C. (2019). UF0035: Operaciones de caja en la venta. Editorial Tutor Formación.',
-      link: 'https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1525950786_UF0035_demo.pdf',
+      link:
+        'https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1525950786_UF0035_demo.pdf',
     },
     {
       referencia: 'Negrete, P. (s.f.) Manual procedimiento de pagos. Scribd.',
