@@ -27,23 +27,9 @@
       h2 1.2 Clasificar efectivo y medios de pago
     
     .row.justify-content-center.align-items-start
-      .col-lg-6
+      .col-lg-12
         p.mb-4(data-aos="fade-left") Al punto de pago llegan diferentes medios de pago que el cajero debe saber identificar de acuerdo con las características de seguridad indicadas, como, por ejemplo, el proceso para autorizar el recibo de cheques, si es que se puede recibir dicho tipo de pago en determinado #[em retail].
-      .col-lg-6
-        .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
-          .col-lg-12
-            .caja1.p-4.mb-5
-              .row.justify-content-around.align-items-center
-                .col-3.col-sm-2.col-lg-2.d-none.d-lg-block
-                  img.img-a.img-t(src="@/assets/curso/temas/icono.svg")
-                .col
-                  .row.justify-content-between.align-items-center
-                    .col.mb-3.mb-sm-0
-                      h4.mb-3.my-3 #[b ¿Qué formas de pago existen?]
-                    .col-sm-auto
-                      a.boton.color-acento-botones(href="https://youtu.be/NMcQatosBOo" target="_blank")
-                        span.ps-2.pe-2 Ir al sitio
-                        i.fas.fa-video
+      
     p.mb-4.text-black(data-aos="fade-right") A continuación, se abordarán diferentes tipos de medios de pago:
     
     .row.justify-content-center.align-items-center.mb-4

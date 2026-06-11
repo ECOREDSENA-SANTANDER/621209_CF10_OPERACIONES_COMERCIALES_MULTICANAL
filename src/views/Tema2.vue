@@ -57,26 +57,12 @@
 
     p.mb-4(data-aos="fade-right") En todo #[em retail] después de recibir pagos en efectivo, cheque, tarjeta de crédito, débito automático o en bonos; empacar mercancía y proporcionar información a los clientes compradores son la base de la jornada laboral en el punto de pago. Se cumple el objetivo, responder a las políticas de la organización y en especial el servicio de la atención al cliente.
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-2
       .col-lg-10
         .cajon.color-secundario.p-4.mb-5
           p.mb-0(data-aos="fade-left") En el punto de pago o caja no debe quedar nada con relación a dinero en efectivo, bonos, cheques u otros documentos de valor y, toda la gestión de la jornada debe reportarse en el departamento de recaudo respectivo en cada #[em retail].
         
-        .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
-          .col-lg-12
-            .caja1.p-4
-              .row.justify-content-around.align-items-center
-                .col-3.col-sm-2.col-lg-2.d-none.d-lg-block
-                  img.img-a.img-t(data-aos="fade-down")(src="@/assets/curso/temas/img29.svg")
-                .col
-                  .row.justify-content-between.align-items-center
-                    .col.mb-3.mb-sm-0
-                      h4.mb-2 Verificación del funcionamiento de la caja
-                      p.mb-2 Tanto al entregar como al recibir el puesto de trabajo es importante validar el correcto funcionamiento de esta. Se invita a ver el siguiente recurso externo.
-                    .col-sm-auto
-                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=uFe65nDNpIQ" target="_blank")
-                        span.ps-2.pe-2 Ir al sitio
-                        i.fas.fa-video
+    
 
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
