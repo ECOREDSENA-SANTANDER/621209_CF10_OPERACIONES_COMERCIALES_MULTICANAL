@@ -96,38 +96,7 @@
       .col-lg-10
         .cajon.color-primario.p-4.mb-5
           p.mb-0(data-aos="fade-left") Es importante que lo que se registre durante la jornada sea lo presentado al finalizar la misma, para evitar novedades el cajero debe procurar laborar con mucho cuidado y atención, tener en cuenta todos los ingresos del día con responsabilidad, validar en lo posible que en el dinero a recibir no haya presencia de falsificaciones y estar atento a una correcta facturación, ya que de lo contrario se pueden derivar novedades en este proceso.
-        
-        .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-          .col-lg-12
-            .caja1.p-4
-              .row.justify-content-around.align-items-center
-                .col-3.col-sm-2.col-lg-2.d-none.d-lg-block
-                  img.img-a.img-t(data-aos="fade-down")(src="@/assets/curso/temas/img32.svg")
-                .col
-                  .row.justify-content-between.align-items-center
-                    .col.mb-3.mb-sm-0
-                      h4.mb-2 Proceso general del cajero  
-                      p.mb-2 Para garantizar este punto es importante recordar realizar un adecuado proceso de manejo de caja. Se invita a repasar el mismo a través del siguiente recurso.
-                    .col-sm-auto
-                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=nYWj9Tru7mc" target="_blank")
-                        span.ps-2.pe-2 Ir al sitio
-                        i.fas.fa-video
-
-        .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
-          .col-lg-12
-            .caja1.p-4
-              .row.justify-content-around.align-items-center
-                .col-3.col-sm-2.col-lg-2.d-none.d-lg-block
-                  img.img-a.img-t(data-aos="fade-down")(src="@/assets/curso/temas/img33.svg")
-                .col
-                  .row.justify-content-between.align-items-center
-                    .col.mb-3.mb-sm-0
-                      h4.mb-2(data-aos="fade-left") Mejora continua   
-                      p.mb-2(data-aos="fade-left") Esta es la gran aliada para mejorar día a día su labor. Revise el siguiente recurso externo.
-                    .col-sm-auto
-                      a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Bnh13PRml3Y" target="_blank")
-                        span.ps-2.pe-2 Ir al sitio
-                        i.fas.fa-video
+  
 
 </template>
 
