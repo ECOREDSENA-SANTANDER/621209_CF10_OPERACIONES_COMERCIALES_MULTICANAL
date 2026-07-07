@@ -154,7 +154,7 @@ export default {
     {
       termino: 'Cajero automático',
       significado:
-        'Máquina sumadora para uso de comerciantes que llena diversos cometidos, pues indica el importe de la compra al cliente, imprime un cupón justificativo del gasto, inscribe y suma el importe de las ventas, dificulta los desfalcos y permite guardar momentáneamente el dinero.',
+        'dispositivo electrónico de autoservicio, conectado a una entidad financiera, que permite realizar operaciones bancarias como retirar dinero, consultar saldos, hacer transferencias, pagos o consignaciones, mediante el uso de una tarjeta, clave u otro mecanismo de autenticación.',
     },
     {
       termino: 'Cajero',
@@ -175,12 +175,12 @@ export default {
   referencias: [
     {
       referencia:
-        'Arenal, C. (2019). UF0035: Operaciones de caja en la venta. Editorial Tutor Formación.',
+        'Editorial E-learning, S. L. (2013). UF0035: Operaciones de caja en la venta. Editorial E-learning, S. L.',
       link:
         'https://www.editorialelearning.com/catalogo/media/iverve/uploadpdf/1525950786_UF0035_demo.pdf',
     },
     {
-      referencia: 'Negrete, P. (s.f.) Manual procedimiento de pagos. Scribd.',
+      referencia: 'Negrete, P. (s. f.) Manual procedimiento de pagos. Scribd.',
       link: 'https://es.scribd.com/doc/42683576/Manual-Procedimiento-de-Pagos',
     },
   ],
@@ -267,8 +267,8 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de recursos educativos digitales',
+          nombre: 'Erika Daniela Manrique Rueda ',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
