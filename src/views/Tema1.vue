@@ -538,7 +538,7 @@
                   h5 Figura 8. 
                   | Elementos de seguridad, billete de 50 mil
                 img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/img12.png", alt="Las imágenes resaltan los elementos de seguridad del billete: zonas en relieve, hilos de seguridad, texto en colores, etc.")
-                p.mb-3.text-rigth Fuente: Banco de la República (s. f.)
+                p.mb-3 Fuente: Banco de la República (s. f.)
             .row.justify-content-center.align-items.p-4(data-aos="fade-left")
               .col-lg-6
                 ul.lista-ul
@@ -556,7 +556,7 @@
                   h5 Figura 9. 
                   | Elementos de seguridad, billete de 20 mil
                 img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/img13.png", alt="Las imágenes resaltan los elementos de seguridad del billete: zonas en relieve, hilos de seguridad, texto en colores, etc.")
-                p.mb-3.text-rigth Fuente: Banco de la República (s. f.)
+                p.mb-3 Fuente: Banco de la República (s. f.)
             .row.justify-content-center.align-items.p-4(data-aos="fade-left")
               .col-lg-6
                 
@@ -578,7 +578,7 @@
                   h5 Figura 10. 
                   | Elementos de seguridad, billete de 10 mil
                 img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/img14.png", alt="Las imágenes resaltan los elementos de seguridad del billete: zonas en relieve, hilos de seguridad, texto en colores, etc.")
-                p.mb-3.text-rigth Fuente: Banco de la República (s. f.)
+                p.mb-3 Fuente: Banco de la República (s. f.)
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
                 ul.lista-ul
@@ -590,7 +590,7 @@
                   h5 Figura 11. 
                   | Elementos de seguridad de nuevos billetes
                 img.mb-3(src="@/assets/curso/temas/img15.png", alt="Imagen que muestra ejemplos de elementos de seguridad en nuevos billetes, ilustrados mediante secciones ampliadas de sus detalles.")
-                p.mb-4.text-rigth Fuente: Banco de la República (s. f.)
+                p.mb-4 Fuente: Banco de la República (s. f.)
               p.mb-0.text-center Imágenes y textos en relieve y elementos en sistema #[em braille] para personas con discapacidad visual.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
@@ -603,7 +603,7 @@
                   h5 Figura 12. 
                   | Elementos de seguridad, marcas, hilos y patrones
                 img.mb-3(src="@/assets/curso/temas/img16.png", alt="Imágenes ampliadas que muestran elementos de seguridad visibles en nuevos billetes, como marcas, hilos y patrones especiales.")
-                p.mb-4.text-rigth Fuente: Banco de la República (s. f.)
+                p.mb-4 Fuente: Banco de la República (s. f.)
               p.mb-0.text-center Imágenes coincidentes, efectos en la cinta de seguridad y marcas de agua a trasluz.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
@@ -616,7 +616,7 @@
                   h5 Figura 13. 
                   | Elementos de seguridad, hologramas, marcas de agua y patrones espaciales 
                 img.mb-3(src="@/assets/curso/temas/img17.png", alt=": Imagen detallada de elementos de seguridad en billetes: hologramas, marcas de agua y patrones espaciales.")
-                p.mb-4.text-rigth Fuente: Banco de la República (s. f.)
+                p.mb-4 Fuente: Banco de la República (s. f.)
               p.mb-0.text-center Efectos de color y movimiento, así como imágenes ocultas.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
@@ -629,7 +629,7 @@
                   h5 Figura 14. 
                   | Billetes bajo la luz ultravioleta
                 img.mb-3(src="@/assets/curso/temas/img18.png", alt="Billetes bajo luz ultravioleta mostrando elementos de seguridad visibles solo en estas condiciones.")
-                p.mb-4.text-rigth Fuente: Banco de la República (s. f.)
+                p.mb-4 Fuente: Banco de la República (s. f.)
               p.mb-0.text-center Reacción a luz ultravioleta.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
@@ -642,7 +642,7 @@
                   h5 Figura 15. 
                   | Microtextos como elementos de seguridad
                 img.mb-3(src="@/assets/curso/temas/img19.png", alt="Figura que muestra ejemplos de microtextos como elemento de seguridad en billetes colombianos, visibles solo con lupa.")
-                p.mb-4.text-rigth Fuente: Banco de la República (s. f.)
+                p.mb-4 Fuente: Banco de la República (s. f.)
               p.mb-0.text-center Microtextos para observar con lupa.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
@@ -655,7 +655,7 @@
                   h5 Figura 16. 
                   | Billetes colombianos con variación de color
                 img.mb-3(src="@/assets/curso/temas/img20.png", alt="Figura que muestra elementos de seguridad en billetes colombianos con variación de color como medida antifalsificación.")
-                p.mb-4.text-rigth Fuente: Banco de la República (s. f.)
+                p.mb-4 Fuente: Banco de la República (s. f.)
               p.mb-0.text-center Variación de color.
 
 

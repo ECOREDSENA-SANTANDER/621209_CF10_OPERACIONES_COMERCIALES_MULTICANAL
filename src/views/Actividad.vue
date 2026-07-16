@@ -20,7 +20,7 @@ export default {
       tema: 'Protocolos de cierre de caja',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Verificar la comprensión de los conceptos fundamentales relacionados con el cierre de la operación, el procedimiento técnico, la clasificación del efectivo y los medios de pago, la validación de documentos de valor, los elementos de seguridad del dinero, el arqueo de caja y la entrega del puesto de trabajo en el <i>retail</i>.',
+        '<b> Objetivo:</b> verificar la comprensión de los conceptos fundamentales relacionados con el cierre de la operación, el procedimiento técnico, la clasificación del efectivo y los medios de pago, la validación de documentos de valor, los elementos de seguridad del dinero, el arqueo de caja y la entrega del puesto de trabajo en el <i>retail</i>.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
