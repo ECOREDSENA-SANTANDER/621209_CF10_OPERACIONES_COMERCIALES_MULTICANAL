@@ -20,7 +20,7 @@
         .cajon.color-primario.p-4
           p.mb-0 Nota. Los procedimientos técnicos definen una secuencia de pasos para ejecutar una tarea determinada; los procesos transforman las entradas en salidas mediante el empleo de recursos, a su vez, los procedimientos se centran en el cumplimiento de normas.
       .col-lg-4.col-md-7.col-7.mb-2
-        img.img-a.img-t(data-aos="fade-down")(src='@/assets/curso/temas/img1.png', alt='tema1')
+        img.img-a.img-t(data-aos="fade-down")(src='@/assets/curso/temas/img1.png', alt='')
 
     separador
     #t_1_2.titulo-segundo.mb-5
@@ -60,7 +60,7 @@
             .titulo-sexto.color-secundario.mb-3
               h5 Figura 1. 
               | Orden de compra
-            img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/img2.svg", alt="La imagen presenta una fotografía de una orden de compra donde se aprecian sus componentes y características." )
+            img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/img2.svg", alt="Orden de compra con valor, código de barras y elementos de seguridad como marca de agua, numeración y fibrillas visibles con luz ultravioleta." )
             ul.lista-ul
               li.d-flex.mb-0
                 i.fas.fa-circle-check
@@ -100,9 +100,6 @@
                 i.fas.fa-circle-check
                 p.mb-0 En la compra se debe utilizar el valor total del bono.
           .col-lg-5.col-md-9
-            .titulo-sexto.color-secundario.mb-3
-              h5 Figura 2. 
-              | Bono regalo
             img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/img3.png", alt="En la fotografía se aprecia una mujer sonriendo sosteniendo un sobre con un moño rojo." )
             
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
@@ -123,9 +120,9 @@
             p.mb-4 Es un documento valor que el cliente recibe al cambiar un producto que le haya salido defectuoso o por alguna situación adversa y, lo debe utilizar como pago en una nueva compra en el mismo almacén. Puede devolver en efectivo usualmente hasta el 10 % del valor de la nota cambio, porcentaje máximo autorizado por las compañías. 
           .col-lg-5.col-md-9
             .titulo-sexto.color-secundario.mb-3
-              h5 Figura 3. 
+              h5 Figura 2. 
               | Nota de cambio
-            img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/img4.svg", alt="La imagen presenta una fotografía de una nota de cambio siendo entregada." )
+            img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/img4.png", alt="Nota de cambio entregada al cliente como documento de valor para pagar una nueva compra en el mismo establecimiento." )
             
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-6
@@ -165,9 +162,9 @@
                     p.mb-0 Solo se reciben los bonos que estén autorizados para el almacén.
           .col-lg-5.col-md-9
             .titulo-sexto.color-secundario.mb-3
-              h5 Figura 4. 
+              h5 Figura 3. 
               | Bono
-            img(data-aos="fade-down")(src="@/assets/curso/temas/img5.png", alt="La imagen presenta la fotografía de un bono sostenido por una mano." )
+            img(data-aos="fade-down")(src="@/assets/curso/temas/img5.svg", alt="Bono de compra con valor, vigencia, código de barras y datos del emisor, utilizado como medio de pago autorizado." )
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-6
@@ -197,9 +194,9 @@
                     p.mb-0.mb-md-4.mb-lg-0 Puntos termosensibles que reaccionan a los cambios de temperatura (frío: oscuro / caliente: claro).
           .col-lg-5
             .titulo-sexto.color-secundario.mb-0
-              h5 Figura 5. 
+              h5 Figura 4. 
               | #[em Ticket]
-            img(data-aos="fade-down").mb-md-4.mb-lg-0.mb-4(src="@/assets/curso/temas/img6.png", alt="La imagen presenta la fotografía de un ticket donde se aprecian sus características y componentes." )
+            img(data-aos="fade-down").mb-md-4.mb-lg-0.mb-4(src="@/assets/curso/temas/fig4.svg", alt="Tiquete de beneficio con valor, código de barras, vigencia, desprendible y datos de la empresa emisora." )
         .row.justify-content.align-items-start
           .col-lg-6
             ul.lista-ul.mb-0
@@ -378,9 +375,9 @@
             
           .col-lg-5
             .titulo-sexto.color-secundario.mb-3
-              h5 Figura 6. 
+              h5 Figura 5. 
               | Cheque personal
-            img(data-aos="fade-down")(src="@/assets/curso/temas/img9.png", alt="La imagen presenta la fotografía de un cheque personal diligenciado y firmado." )
+            img(data-aos="fade-down")(src="@/assets/curso/temas/img6.svg", alt="Cheque personal diligenciado a mano, con fecha, beneficiario, valor en números y letras, firma y datos bancarios." )
         .row.justify-content.align-items-start
           .col-lg-6
             h4.mb-3 Características:
@@ -452,9 +449,9 @@
             
           .col-lg-5
             .titulo-sexto.color-secundario.mb-3
-              h5 Figura 7. 
+              h5 Figura 6. 
               | Cheque de empresa
-            img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/img11.png", alt="La imagen presenta una fotografía de un cheque diligenciado a máquina y con un sello de la empresa." )
+            img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/fig6.svg", alt="Cheque de empresa elaborado en impresora, con beneficiario, valor, datos bancarios, firma y sello de la organización." )
         .row.justify-content.align-items-start
           .col-lg-5(data-aos="fade-right")
             h4.mb-3 Características:
@@ -535,9 +532,9 @@
                 p.mb-4 Al exponer el billete a la luz ultravioleta, se puede apreciar que el hilo de seguridad reacciona en color verde y que en la parte superior del árbol se ve en el color naranja. Los extremos superior e inferior del billete se observan en color amarillo.
               .col-lg-6.col-md-12.col-12
                 .titulo-sexto.color-secundario.mb-4
-                  h5 Figura 8. 
+                  h5 Figura 7. 
                   | Elementos de seguridad, billete de 50 mil
-                img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/img12.png", alt="Las imágenes resaltan los elementos de seguridad del billete: zonas en relieve, hilos de seguridad, texto en colores, etc.")
+                img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/fig7.svg", alt="Billete colombiano de $50.000 con detalles de relieve, cinta de seguridad, marca de agua y reacción bajo luz ultravioleta.")
                 p.mb-3 Fuente: Banco de la República (s. f.)
             .row.justify-content-center.align-items.p-4(data-aos="fade-left")
               .col-lg-6
@@ -547,19 +544,18 @@
                     p.mb-4 En el caso de los billetes de 20.000 se incorporan múltiples características de seguridad que ayudan a confirmar su legitimidad. Estos elementos suelen incluir.
                   li.d-flex.mb-0
                     i.fas.fa-check
-                    p.mb-0 Al exponer el billete a la luz ultravioleta se puede apreciar que el  hilo de seguridad se ve en colores amarillo, azul y rojo. Con mayor nitidez en las secciones que salen del papel. La denominación “20000” y el texto “VEINTE MIL PESOS” parecen en dos sellos en el costado izquierdo, así como en sentido vertical la denominación “20000” en el centro del billete, los cuales reaccionan en color amarillo.
+                    p.mb-0 Al exponer el billete a la luz ultravioleta se puede apreciar que el  hilo de seguridad se ve en colores amarillo, azul y rojo. Con mayor nitidez en las secciones que salen del papel. La denominación “20000” y el texto “VEINTE MIL PESOS” aparecen en dos sellos en el costado izquierdo, así como en sentido vertical la denominación “20000” en el centro del billete, los cuales reaccionan en color amarillo.
                   li.d-flex.mb-0
                     i.fas.fa-check
                     p.mb-0 Las áreas con relieve, en la mayoría de los casos, son las zonas más oscuras del billete.
               .col-lg-6.col-md-12.col-12
                 .titulo-sexto.color-secundario.mb-4
-                  h5 Figura 9. 
+                  h5 Figura 8. 
                   | Elementos de seguridad, billete de 20 mil
-                img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/img13.png", alt="Las imágenes resaltan los elementos de seguridad del billete: zonas en relieve, hilos de seguridad, texto en colores, etc.")
+                img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/fig8.svg", alt="Billete colombiano de $20.000 con detalles de relieve, cinta de seguridad, marca de agua y reacción bajo luz ultravioleta.")
                 p.mb-3 Fuente: Banco de la República (s. f.)
             .row.justify-content-center.align-items.p-4(data-aos="fade-left")
               .col-lg-6
-                
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
@@ -575,9 +571,9 @@
                     p.mb-0 Ubicada en el extremo izquierdo del billete a contraluz se observa la imagen de la heroína, con los mismos rasgos del retrato utilizado como motivo principal, a la derecha se aprecia la marca de agua resaltada formada por las letras P y S.
               .col-lg-6.col-md-12.col-12
                 .titulo-sexto.color-secundario.mb-4
-                  h5 Figura 10. 
+                  h5 Figura 9. 
                   | Elementos de seguridad, billete de 10 mil
-                img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/img14.png", alt="Las imágenes resaltan los elementos de seguridad del billete: zonas en relieve, hilos de seguridad, texto en colores, etc.")
+                img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/fig9.svg", alt="Anverso y reverso del billete colombiano de $10.000, con ampliaciones de la cinta de seguridad, marca de agua y relieves.")
                 p.mb-3 Fuente: Banco de la República (s. f.)
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
@@ -587,9 +583,9 @@
                     p.mb-4(data-aos="fade-left") Los nuevos billetes incluyen diversos elementos de seguridad, entre los cuales se encuentran los siguientes:
               .col-lg-10
                 .titulo-sexto.color-secundario.mb-4
-                  h5 Figura 11. 
+                  h5 Figura 10. 
                   | Elementos de seguridad de nuevos billetes
-                img.mb-3(src="@/assets/curso/temas/img15.png", alt="Imagen que muestra ejemplos de elementos de seguridad en nuevos billetes, ilustrados mediante secciones ampliadas de sus detalles.")
+                img.mb-3(src="@/assets/curso/temas/fig10.svg", alt="Detalles de billetes colombianos con imágenes y textos en relieve y marcas táctiles para personas con discapacidad visual.")
                 p.mb-4 Fuente: Banco de la República (s. f.)
               p.mb-0.text-center Imágenes y textos en relieve y elementos en sistema #[em braille] para personas con discapacidad visual.
             .row.justify-content-center.align-items-center.p-4
@@ -600,9 +596,9 @@
                     p.mb-4(data-aos="fade-left") En los billetes más recientes se han añadido elementos de seguridad como los que se mencionan a continuación:
               .col-lg-10
                 .titulo-sexto.color-secundario.mb-4
-                  h5 Figura 12. 
+                  h5 Figura 11. 
                   | Elementos de seguridad, marcas, hilos y patrones
-                img.mb-3(src="@/assets/curso/temas/img16.png", alt="Imágenes ampliadas que muestran elementos de seguridad visibles en nuevos billetes, como marcas, hilos y patrones especiales.")
+                img.mb-3(src="@/assets/curso/temas/fig11.svg", alt="Detalles de billetes colombianos con imagen coincidente, cinta de seguridad y marca de agua visibles a contraluz.")
                 p.mb-4 Fuente: Banco de la República (s. f.)
               p.mb-0.text-center Imágenes coincidentes, efectos en la cinta de seguridad y marcas de agua a trasluz.
             .row.justify-content-center.align-items-center.p-4
@@ -613,9 +609,9 @@
                     p.mb-4(data-aos="fade-left") Los billetes modernos presentan distintos elementos de seguridad, como los siguientes:
               .col-lg-10
                 .titulo-sexto.color-secundario.mb-4
-                  h5 Figura 13. 
+                  h5 Figura 12. 
                   | Elementos de seguridad, hologramas, marcas de agua y patrones espaciales 
-                img.mb-3(src="@/assets/curso/temas/img17.png", alt=": Imagen detallada de elementos de seguridad en billetes: hologramas, marcas de agua y patrones espaciales.")
+                img.mb-3(src="@/assets/curso/temas/fig12.svg", alt="Detalles de billetes colombianos con efectos de cambio de color, movimiento e imágenes ocultas al variar el ángulo.")
                 p.mb-4 Fuente: Banco de la República (s. f.)
               p.mb-0.text-center Efectos de color y movimiento, así como imágenes ocultas.
             .row.justify-content-center.align-items-center.p-4
@@ -626,9 +622,9 @@
                     p.mb-4(data-aos="fade-left") En los nuevos diseños de billetes se integran varios elementos de seguridad, tales como:
               .col-lg-10
                 .titulo-sexto.color-secundario.mb-4
-                  h5 Figura 14. 
+                  h5 Figura 13. 
                   | Billetes bajo la luz ultravioleta
-                img.mb-3(src="@/assets/curso/temas/img18.png", alt="Billetes bajo luz ultravioleta mostrando elementos de seguridad visibles solo en estas condiciones.")
+                img.mb-3(src="@/assets/curso/temas/fig13.svg", alt="Billetes colombianos bajo luz ultravioleta, con fibras, tintas y zonas de seguridad que reaccionan en distintos colores.")
                 p.mb-4 Fuente: Banco de la República (s. f.)
               p.mb-0.text-center Reacción a luz ultravioleta.
             .row.justify-content-center.align-items-center.p-4
@@ -639,9 +635,9 @@
                     p.mb-4(data-aos="fade-left") Los billetes actuales están provistos de elementos de seguridad, entre ellos se destacan los siguientes:
               .col-lg-10
                 .titulo-sexto.color-secundario.mb-4
-                  h5 Figura 15. 
+                  h5 Figura 14. 
                   | Microtextos como elementos de seguridad
-                img.mb-3(src="@/assets/curso/temas/img19.png", alt="Figura que muestra ejemplos de microtextos como elemento de seguridad en billetes colombianos, visibles solo con lupa.")
+                img.mb-3(src="@/assets/curso/temas/fig14.svg", alt="Microtextos impresos en billetes colombianos, visibles con lupa y utilizados como elemento de seguridad.")
                 p.mb-4 Fuente: Banco de la República (s. f.)
               p.mb-0.text-center Microtextos para observar con lupa.
             .row.justify-content-center.align-items-center.p-4
@@ -652,9 +648,9 @@
                     p.mb-4(data-aos="fade-left") En los nuevos billetes también se encuentran elementos de seguridad como los siguientes:
               .col-lg-10
                 .titulo-sexto.color-secundario.mb-4
-                  h5 Figura 16. 
+                  h5 Figura 15. 
                   | Billetes colombianos con variación de color
-                img.mb-3(src="@/assets/curso/temas/img20.png", alt="Figura que muestra elementos de seguridad en billetes colombianos con variación de color como medida antifalsificación.")
+                img.mb-3(src="@/assets/curso/temas/fig15.svg", alt="Detalle de billetes colombianos con tintas que cambian de color al variar el ángulo de observación.")
                 p.mb-4 Fuente: Banco de la República (s. f.)
               p.mb-0.text-center Variación de color.
 

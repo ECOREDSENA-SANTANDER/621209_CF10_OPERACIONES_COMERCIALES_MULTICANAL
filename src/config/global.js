@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Protocolos de cierre de caja',
     Description:
-      'A través de este componente de formación se pretende instruir para realizar el cierre de caja y entrega del puesto de pago a la hora de terminar un turno, teniendo en cuenta que se deben hacer entrega de dinero y soportes de todas la transacciones u operaciones que se hayan realizado durante el día, y para los cuales hay ciertos protocolos a seguir.',
+      'A través de este componente de formación se pretende instruir para realizar el cierre de caja y entrega del puesto de pago a la hora de terminar un turno, teniendo en cuenta que se debe hacer entrega de dinero y soportes de todas las transacciones u operaciones que se hayan realizado durante el día, y para los cuales hay ciertos protocolos a seguir.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [
@@ -207,8 +207,7 @@ export default {
         {
           nombre: 'Esperanza Cardona Grisales',
           cargo: 'Instructora',
-          centro:
-            'Centro de Gestión Tecnológica de Servicios CGTS - Regional Valle',
+          centro: 'Centro de Gestión Tecnológica de Servicios - Regional Valle',
         },
         {
           nombre: 'Jaime Pérez Posada',

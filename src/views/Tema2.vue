@@ -55,7 +55,7 @@
         h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Entregar puesto de trabajo
         img.icon(src='@/assets/curso/temas/img22.svg')
 
-    p.mb-4(data-aos="fade-right") En todo #[em retail] después de recibir pagos en efectivo, cheque, tarjeta de crédito, débito automático o en bonos; empacar mercancía y proporcionar información a los clientes compradores son la base de la jornada laboral en el punto de pago. Se cumple el objetivo, responder a las políticas de la organización y en especial el servicio de la atención al cliente.
+    p.mb-4(data-aos="fade-right") En todo #[em retail] después de recibir pagos en efectivo, cheque, tarjeta de crédito, débito automático o en bonos, empacar mercancía y proporcionar información a los clientes compradores son la base de la jornada laboral en el punto de pago. Se cumple el objetivo, responder a las políticas de la organización y en especial el servicio de la atención al cliente.
     
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-10
